@@ -1,3 +1,5 @@
 ### Welcome!
 
-I'll try to build and predict a machine learning model with Random Forest Classification and using Pima Indians Diabetes Dataset.
+I developed a machine learning projects that **predict diabetes** using health data from people who have lived in **Pima Arizona**. I used the **Random Forest Classification** method in this project
+
+*I shared the data set with the code. You can use it as you wish.*
